@@ -17,7 +17,7 @@ The script detects automatically whether the clipboard content is a DOI or a tit
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Make sure you have Python 3 installed. Then install the dependencies:
 
