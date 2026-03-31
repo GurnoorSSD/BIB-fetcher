@@ -1,4 +1,4 @@
-# 📚 Bibtex Fetcher from DOI or Title
+#  Bibtex Fetcher from DOI or Title
 
 A Python script that automatically fetches the **BibTeX** entry for a research paper when you provide either:
 - Its **DOI**, or
@@ -8,12 +8,12 @@ The script detects automatically whether the clipboard content is a DOI or a tit
 
 ---
 
-## ✨ Features
-- 📋 **Clipboard-aware** — just copy a DOI or title, then run the script.
-- 🔍 **Automatic detection** — no need to specify DOI or title; the script figures it out.
-- 🌐 **CrossRef API integration** — finds the DOI if you only have the title.
-- 📄 **DOI.org BibTeX fetch** — gets the BibTeX entry directly from the DOI resolver.
-- ⚡ **One-step workflow** — fetch, display, and copy to clipboard in one go.
+##  Features
+-  **Clipboard-aware** — just copy a DOI or title, then run the script.
+-  **Automatic detection** — no need to specify DOI or title; the script figures it out.
+-  **CrossRef API integration** — finds the DOI if you only have the title.
+-  **DOI.org BibTeX fetch** — gets the BibTeX entry directly from the DOI resolver.
+-  **One-step workflow** — fetch, display, and copy to clipboard in one go.
 
 ---
 
